@@ -1,0 +1,8 @@
+{
+  "name": "testing",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
